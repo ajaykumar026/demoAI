@@ -32,9 +32,7 @@ def get_user_name(user):
 
 def multiply(a, b):
     """Return a multiplied by b."""
-    # Intentional bug:
-    # undefined variable
-    return a * c
+    return a * b
 
 
 def divide(a, b):
